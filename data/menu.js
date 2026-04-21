@@ -16,7 +16,7 @@ const MENU = [
   {
     id: 'idlis',
     icon: '🫧',
-    title: 'Signature Idlis',
+    title: 'Idlis',
     sub: 'Soft · Steamed · Soulful',
     items: [
       {
@@ -220,7 +220,7 @@ const MENU = [
   {
     id: 'dosas',
     icon: '🥞',
-    title: 'Crafted Dosas',
+    title: 'Dosas',
     sub: 'Crisp · Golden · Perfectly Balanced',
     items: [
       {
